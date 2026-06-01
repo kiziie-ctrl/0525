@@ -4,7 +4,7 @@ from groq import Groq
 
 # 頁面設定
 st.set_page_config(page_title="附中 AI 導覽員")
-st.title("陽明交大附中 - 小北導覽")
+st.title("陽明交大附中 - 小北導覽Groq版")
 
 # 讀取背景知識
 try:
